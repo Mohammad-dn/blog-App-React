@@ -1,0 +1,7 @@
+.custome-class{
+    background-color: yellowgreen;
+    border: none;
+}
+.custome-class:hover{
+    background-color:darkcyan;
+}
